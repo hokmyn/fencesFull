@@ -45,8 +45,9 @@ a {text-decoration: none;}
 	color: #fff;
 }
 .main_mnu a:hover {
-	background-color: #6D3B39;
+	background-color: #d24a43;
 	color: #fff;
+	border-radius: 5px; 
 }
 .main_mnu ul.visible {display: block}
 .last-h {margin-right: 0 !important;}
